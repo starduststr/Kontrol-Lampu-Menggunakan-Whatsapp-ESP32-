@@ -4,6 +4,7 @@ Koneksi WiFi menggunakan bawaan wokwi
 
 STEP
 <ul>
-<li>1. Masukan End Poin ThingESP ke twilio</li>
-
+<li>Masukan End Poin ThingESP ke twilio (messaging/settings/Whatsapp Sanbox settings)</li>
+<li>Ubah bagian "ThingESP32 thing("starduststr", "ESP32", "Whatsapp Control");" sesuai username, nama project, dan device credential yang anda miliki</li>
+<li>Jalankan kodenya</li>
 <ul>
